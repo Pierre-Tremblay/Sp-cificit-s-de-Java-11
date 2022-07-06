@@ -1,4 +1,4 @@
-package ExerciceAPI.BO;
+package ExerciceWeatherAPI.BO;
 
 public class Sys{
     public int type;

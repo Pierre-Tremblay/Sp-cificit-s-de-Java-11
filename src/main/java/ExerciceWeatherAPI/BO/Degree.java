@@ -1,4 +1,4 @@
-package ExerciceAPI.BO;
+package ExerciceWeatherAPI.BO;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

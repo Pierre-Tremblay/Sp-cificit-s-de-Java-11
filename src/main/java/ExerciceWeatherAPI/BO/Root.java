@@ -1,4 +1,4 @@
-package ExerciceAPI.BO;
+package ExerciceWeatherAPI.BO;
 
 import java.util.ArrayList;
 

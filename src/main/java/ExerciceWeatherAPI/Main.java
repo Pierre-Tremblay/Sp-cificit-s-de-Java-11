@@ -1,6 +1,6 @@
-package ExerciceAPI;
+package ExerciceWeatherAPI;
 
-import ExerciceAPI.BO.Root;
+import ExerciceWeatherAPI.BO.Root;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
