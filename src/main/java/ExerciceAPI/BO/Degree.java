@@ -1,4 +1,4 @@
-package ExerciceAPI;
+package ExerciceAPI.BO;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

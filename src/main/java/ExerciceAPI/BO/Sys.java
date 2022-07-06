@@ -1,4 +1,4 @@
-package ExerciceAPI;
+package ExerciceAPI.BO;
 
 public class Sys{
     public int type;

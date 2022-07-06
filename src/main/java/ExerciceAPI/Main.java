@@ -1,5 +1,6 @@
 package ExerciceAPI;
 
+import ExerciceAPI.BO.Root;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.IOException;

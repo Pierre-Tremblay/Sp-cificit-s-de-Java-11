@@ -1,4 +1,4 @@
-package ExerciceAPI;
+package ExerciceAPI.BO;
 
 import java.util.ArrayList;
 

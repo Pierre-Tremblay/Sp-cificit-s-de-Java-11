@@ -1,4 +1,4 @@
-package ExerciceAPI;
+package ExerciceAPI.BO;
 
 public class Clouds {
     public int all;

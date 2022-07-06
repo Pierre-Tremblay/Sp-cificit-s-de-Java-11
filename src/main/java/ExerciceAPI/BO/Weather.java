@@ -1,4 +1,4 @@
-package ExerciceAPI;
+package ExerciceAPI.BO;
 
 public class Weather{
     public int id;
