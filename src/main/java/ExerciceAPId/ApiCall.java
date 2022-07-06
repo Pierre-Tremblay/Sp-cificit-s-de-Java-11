@@ -1,4 +1,4 @@
-package ExerciceAPIAdrien;
+package ExerciceAPId;
 
 import java.io.IOException;
 import java.net.URI;

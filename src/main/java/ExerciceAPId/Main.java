@@ -1,4 +1,4 @@
-package ExerciceAPIAdrien;
+package ExerciceAPId;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;

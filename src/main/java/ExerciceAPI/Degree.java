@@ -1,12 +1,17 @@
 package ExerciceAPI;
 
-public class Base {
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class Degree {
     public double temp;
     public double feels_like;
     public double temp_min;
     public double temp_max;
     public int pressure;
     public int humidity;
+    public int sea_level;
+    public int grnd_level;
 
 
 
@@ -56,6 +61,22 @@ public class Base {
 
     public void setHumidity(int humidity) {
         this.humidity = humidity;
+    }
+
+    public int getSea_level() {
+        return sea_level;
+    }
+
+    public void setSea_level(int sea_level) {
+        this.sea_level = sea_level;
+    }
+
+    public int getGrnd_level() {
+        return grnd_level;
+    }
+
+    public void setGrnd_level(int grnd_level) {
+        this.grnd_level = grnd_level;
     }
 
     @Override
