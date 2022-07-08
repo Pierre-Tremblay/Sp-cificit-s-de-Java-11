@@ -18,10 +18,10 @@ public class FacadeHomeCinema {
         lumiere.attenuer(10);
         ecran.baisser();
         projecteur.marche();
-        projecteur.setEntree("dvd");
+        projecteur.setEntree("DVD");
         projecteur.modeGrandEcran();
         amplificateurs.marche();
-        amplificateurs.setDvd("le dvd");
+        amplificateurs.setDvd("le DVD");
         amplificateurs.setSonSurround(true);
         amplificateurs.setVolume(8);
         lecteurDVD.marche();

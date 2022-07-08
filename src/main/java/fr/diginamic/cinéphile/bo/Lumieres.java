@@ -12,6 +12,6 @@ public class Lumieres extends Button{
     }
 
     public void attenuer(int valeur) {
-        System.out.println("La lumière est atténuée de " + valeur +"%");
+        System.out.println("La lumière est atténuée de " + valeur +" %");
     }
 }
